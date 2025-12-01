@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "Dan's Study Notes"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Dan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Studying the things somehow related to the research, and I will (try to) record in this page."
+  bio              : "Studying the things somehow related to the research, and I will (try to) record them in this page."
   location         : 
   email            :
   links:
