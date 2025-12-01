@@ -2,9 +2,7 @@
 main:
   - title: "About"
     url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Research"
+  - title: "Drawings"
     url: /year-archive/
-  - title: "Publications"
+  - title: "Python"
     url: /collection-archive/
-  - title: "Contact"
-    url: /sitemap/
