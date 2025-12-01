@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Dan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "South Korea"
+  bio              : "Studying the things somehow related to the research, and I will (try to) record in this page."
+  location         : 
   email            :
   links:
     - label: "Email"
