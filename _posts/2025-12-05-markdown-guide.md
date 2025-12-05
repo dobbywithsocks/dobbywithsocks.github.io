@@ -3,7 +3,9 @@ layout: single
 title: "Markdown 문법"
 ---
 # 소개
-Markdown은 2004년에 John Gruber에 의해 개발된 언어이다. 비교적 단순한 기호 및 글자로 손쉽게 직관적으로 문서를 작성하고 읽을 수 있는 것이 특징이다.
+기본적으로 Jekyll을 이용해 포스트를 작성하려면 Markdown 문법에 익숙해져야 한다. Markdown은 2004년에 John Gruber에 의해 개발된 언어이다. 비교적 단순한 기호 및 글자로 손쉽게 직관적으로 문서를 작성하고 읽을 수 있는 것이 특징이다. 좀 더 자세한 설명은 아래 사이트들을 참고하면 좋을듯 하다.   
+[ihoneymon 님의 글](https://gist.github.com/ihoneymon/652be052a0727ad59601#file-how-to-write-by-markdown-md)   
+[Markdown Guide (English)](https://www.markdownguide.org/)
 
 # 헤더
     # H1
